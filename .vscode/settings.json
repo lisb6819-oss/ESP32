@@ -14,7 +14,7 @@
   "clangd.arguments": [
     "--background-index",
     "--query-driver=**",
-    "--compile-commands-dir=d:\\Desktop\\ESP32\\00_basic\\build"
+    "--compile-commands-dir=D:/Desktop/ESP32/01_led/build"
 ],
 "idf.flashType": "UART"
 }
