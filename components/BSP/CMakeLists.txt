@@ -1,7 +1,9 @@
 set(src_dirs
+			GPTIM
             LED)
 
 set(include_dirs
+			GPTIM
             LED)
 
 set(requires
