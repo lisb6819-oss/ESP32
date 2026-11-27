@@ -1,8 +1,8 @@
 set(src_dirs
-            LED)
+            LEDC)
 
 set(include_dirs
-            LED)
+            LEDC)
 
 set(requires
             driver)
